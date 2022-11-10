@@ -1,4 +1,8 @@
-# Fabric Example Mod
+# EnchantArranger (final mod name TBD)
+
+Simple Fabric mod to rearrange enchantments on an item in Minecraft.
+
+Download: Modrinth (coming soon)
 
 ## Setup
 
